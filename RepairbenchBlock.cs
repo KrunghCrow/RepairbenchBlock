@@ -2,7 +2,7 @@ using Oxide.Core;
 
 namespace Oxide.Plugins
 {
-    [Info("RepairbenchBlock" , "Krungh Crow", "1.0.0")]
+    [Info("Repairbench Block" , "Krungh Crow", "1.0.1")]
     [Description("Disables using the repairbench")]
 
     class RepairbenchBlock : RustPlugin
