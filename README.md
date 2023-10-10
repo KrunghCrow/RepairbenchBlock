@@ -1,2 +1,5 @@
-# RepairbenchBlock
-Rust/Oxide plugin that disables the repairbench workings with permissions
+Simply blocks any player using a repairbench but can be assigned to be used with the apropiate permission.
+Refills can still be done through the workbench
+
+## Permission
+* *repairbenchblock.bypass* : Assign this to the player to make repairbenches accesable
